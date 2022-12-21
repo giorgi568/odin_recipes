@@ -1,1 +1,1 @@
-# odin_recipes
+this project is about building better future!
